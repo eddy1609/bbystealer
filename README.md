@@ -1,6 +1,6 @@
 
 
-##### [🌍 Telegram](https://t.me/BrooklynPS) -  [:gem: Premium](https://discord.gg/RdRXBnK3ny) - [🔧 Builder](https://github.com/Stanley-GF/Arizona) - [💡 Features](https://github.com/Stanley-GF/Arizona#features) 
+#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/Stanley-GF/Arizona) - [💡 Features](https://github.com/Stanley-GF/Arizona#features) 
 ### Authors
 - skiddedMark
 - Burmley
