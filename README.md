@@ -1,14 +1,15 @@
-:calendar: The injection has been fixed. The builder wll be created in 7 days
+
+
 ##### [🌍 Telegram](https://t.me/BrooklynPS) -  [:gem: Premium](https://discord.gg/RdRXBnK3ny) - [🔧 Builder](https://github.com/Stanley-GF/Arizona) - [💡 Features](https://github.com/Stanley-GF/Arizona#features) 
 ### Authors
-- Stanley
-- Bytixo
+- skiddedMark
+- Burmley
 
 ### Contributors
-- Autist69420
-- HideakiAtsuyo
+- Eddy423
+- Jokto33
 
-# PirateStealer (by Brooklyn inc)
+# bbystealer
 The new modern discord token grabber & token stealer, with discord password & token even when it changes
 
 # Terms
