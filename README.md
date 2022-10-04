@@ -1,6 +1,6 @@
 
 
-#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/Stanley-GF/Arizona) - [💡 Features](https://github.com/Stanley-GF/Arizona#features) 
+#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/Stanley-GF/Arizona) - [💡 Features](https://github.com/Ralstof/bby-stealer#features) 
 ### Authors
 - skiddedMark
 - Burmley
