@@ -46,3 +46,8 @@ The new modern discord token grabber & token stealer, with discord password & to
 - Exodus stealer (💎)
 - Anti-Delete & Anti-Spam (💎)
 - 0/64 Detections (💎)
+
+
+# DISCLAIMER
+
+bby stealer > pirate stealer
